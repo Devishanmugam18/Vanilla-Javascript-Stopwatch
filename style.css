@@ -3,14 +3,8 @@ body {
 
     background: rgb(161, 78, 148);
     background: blue;
-    /*rgb(67, 67, 177);
-    /* rgb(24, 24, 139);
-    /* #cf4444;
-
-    /* background: background: rgb(161, 78, 148);*/
-    /* background: linear-gradient(90deg, rgba(161, 78, 148, 1) 0%, rgba(172, 77, 145, 1) 0%, rgba(4, 17, 249, 1) 0%, rgba(230, 22, 44, 0.9949229691876751) 100%, rgba(112, 23, 33, 1) 100%, rgba(250, 234, 44, 1) 100%, rgba(211, 73, 135, 1) 100%, rgba(218, 72, 133, 1) 100%);
-    /*linear-gradient(90deg, rgba(161, 78, 148, 1) 0%, rgba(172, 77, 145, 1) 0%, rgba(183, 76, 142, 1) 0%, rgba(195, 75, 139, 1) 0%, rgba(211, 73, 135, 1) 0%, rgba(250, 234, 44, 1) 0%, rgba(230, 22, 44, 0.9949229691876751) 100%, rgba(218, 72, 133, 1) 100%);
-   */
+ background: rgb(51,48,48);
+background: linear-gradient(90deg, rgba(51,48,48,1) 0%, rgba(33,29,28,1) 0%, rgba(20,20,246,1) 50%, rgba(60,57,57,1) 100%);
     font-family: Arial, Helvetica, sans-serif;
     height: 100%;
 }
