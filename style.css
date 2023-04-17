@@ -6,15 +6,6 @@ body {
     height: 100%;
 
 }
-
-.container {
-    width: 90%;
-    max-width: 1000px;
-    margin: 5% auto;
-    color: white;
-    text-align: center;
-}
-
 .responsive-img {
     max-width: 100%;
     height: auto;
@@ -26,6 +17,15 @@ body {
     width: 100%; /* Set width to 100% for screens with width <= 768px */
   }
 }
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 5% auto;
+    color: white;
+    text-align: center;
+}
+
 
 h1,
 h2,
