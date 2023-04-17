@@ -31,6 +31,8 @@ h3 {
 @media(max-width:430px){
     h1{
         font-size:18px;
+    }
+}
 #hrs,
 #mins,
 #secs,
